@@ -1,0 +1,218 @@
+﻿  stdafx.cpp
+  wlilf.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(20): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(21): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(81): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(110): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(126): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(127): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(129): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(130): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(159): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(194): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(195): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(235): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(263): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(265): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(276): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(278): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(292): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(294): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(305): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\wlilf.cpp(307): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  winMain.cpp
+  utils.cpp
+  unitBase.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\unitbase.cpp(28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\unitbase.cpp(31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\unitbase.cpp(34): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\unitbase.cpp(48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\unitbase.cpp(51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\unitbase.cpp(54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playerUnitBase.cpp
+  txtData.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\txtdata.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\txtdata.cpp(41): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\txtdata.cpp(43): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\txtdata.cpp(78): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\txtdata.cpp(81): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\txtdata.cpp(74): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  towerSpot.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\towerspot.cpp(103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\towerspot.cpp(144): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\towerspot.cpp(148): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\towerspot.cpp(150): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  towerManager.cpp
+  towerBase.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\towerbase.cpp(177): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\towerbase.cpp(187): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timer.cpp
+  timeManager.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\timemanager.cpp(47): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\timemanager.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\timemanager.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  startPage.cpp
+  stageBase.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(176): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(205): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(515): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(892): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(1161): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(1164): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(1167): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(1170): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stagebase.cpp(1342): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  stage2.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stage2.cpp(132): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  stage1.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\stage1.cpp(144): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  soundManager.cpp
+  sceneManager.cpp
+  prograssBar.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\prograssbar.cpp(15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\prograssbar.cpp(16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\prograssbar.cpp(19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\prograssbar.cpp(70): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playerUnitManager.cpp
+  orc.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\orc.cpp(63): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\orc.cpp(65): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\orc.cpp(86): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\orc.cpp(115): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\orc.cpp(141): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\txtdata.cpp(47): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  mainPage.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\mainpage.cpp(237): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  mainGame.cpp
+  magicianTower.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magiciantower.cpp(63): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magiciantower.cpp(89): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magiciantower.cpp(123): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magiciantower.cpp(144): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magiciantower.cpp(148): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magiciantower.cpp(150): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  magician.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magician.cpp(97): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magician.cpp(180): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magician.cpp(181): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  magicEnergy.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magicenergy.cpp(98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magicenergy.cpp(115): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magicenergy.cpp(118): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\magicenergy.cpp(121): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  loading.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(34): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(53): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(74): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(95): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(213): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(236): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(248): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(261): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\loading.cpp(261): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keyManager.cpp
+  iniData.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\inidata.cpp(45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\inidata.cpp(40): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\inidata.cpp(43): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\inidata.cpp(62): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\inidata.cpp(65): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\inidata.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\inidata.cpp(84): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+  infantry.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\infantry.cpp(23): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\infantry.cpp(95): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\infantry.cpp(138): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\infantry.cpp(197): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\infantry.cpp(214): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\infantry.cpp(261): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  image.cpp
+  goblin.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\goblin.cpp(63): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\goblin.cpp(65): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\goblin.cpp(86): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\goblin.cpp(115): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\goblin.cpp(141): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameObject.cpp
+  gameNode.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\gamenode.cpp(136): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\gamenode.cpp(137): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\gamenode.cpp(123): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\gamenode.cpp(122): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  enemyUnitManager.cpp
+  enemyUnitBase.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(81): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(116): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(117): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(154): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(156): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(199): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\enemyunitbase.cpp(200): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effectManager.cpp
+  effect.cpp
+  creditPage.cpp
+  cannonTower.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannontower.cpp(55): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannontower.cpp(293): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannontower.cpp(294): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannontower.cpp(301): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannontower.cpp(326): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannontower.cpp(330): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannontower.cpp(332): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\inidata.cpp(71): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  cannon.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannon.cpp(87): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannon.cpp(97): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannon.cpp(124): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\cannon.cpp(126): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bulletBase.cpp
+  barracks.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(81): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(111): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(157): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(178): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(178): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(179): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(179): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(181): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(185): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\barracks.cpp(187): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  arrow.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\arrow.cpp(95): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\arrow.cpp(126): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  archerTower.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\archertower.cpp(107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\archertower.cpp(128): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\archertower.cpp(132): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\archertower.cpp(134): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  archer.cpp
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\archer.cpp(36): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\archer.cpp(198): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\programming\github\2dportfolio\kingdomrush\kingdomrush\archer.cpp(199): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  animationManager.cpp
+  animation.cpp
+  코드를 생성하고 있습니다...
+  WindowAPI.vcxproj -> D:\Programming\GitHub\2DPortfolio\KingdomRush\KingdomRush\Debug\WindowAPI.exe
+  WindowAPI.vcxproj -> D:\Programming\GitHub\2DPortfolio\KingdomRush\KingdomRush\Debug\WindowAPI.pdb (Full PDB)
